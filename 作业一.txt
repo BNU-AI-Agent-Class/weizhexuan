@@ -1,0 +1,49 @@
+一、下载好workbuddy和Trae【必备】
+打开压缩包，选择自己电脑版本
+
+通过网盘分享的文件：课程软件资料
+链接: https://pan.baidu.com/s/199c6L7iTiyNSqtMPQ4lhDw 提取码: 5e1s
+
+二、配置环境，下载相关软件【必备】
+
+在workbuddy对话框下方选择模型GLM5.2，
+[图片]
+对话框中输入：
+帮我配置相关编程环境，并且装全家桶git node js vs code claude code cc switch codex
+自动帮你检查相关文件安装，帮你下载
+[图片]
+
+三、下载好ccswitch打开
+四、Claude配置模型
+claude配置模型
+五、codex配置模型
+codex配置模型
+六、使用GitHub
+GitHub
+七、在Trae中打开s3_agent并运行
+在Trae中调试Agent
+暂时无法在飞书文档外展示此内容
+八、作业一
+作业一 神秘提示
+如何提交作业：把s0、s1、s2、s3、s4、s5的.py文件和skill.md、agent.md发给claude code或者workbuddy，跟它说：“你连上我的github，我要给你发什么东西你跟我说，教我一下怎么连。连上以后把这8个文件传到BNU-AI-Agent-Class里我的repository里”
+
+回家以后没梯子的用这个：https://ikuuu.win/user
+实在不会的在群里问或者加助教微信问都行。
+
+暂时无法在飞书文档外展示此内容
+九、API key
+kimi for coding：
+只能在cc-switch里给claude code这类主流coding agent用，不能自己写程序调用api。
+sk-kimi-i9JMR3Ygu8nNyjNfGCfc0CIOEsmj1kZ9azoD71RZ8iQHYJltPCV1onkIb0SnEMJw
+
+以下是自己写agent可以通过OpenAI的库调用的：
+Deepseek：
+sk-f694921b65ac41519d4d51472d93d89c
+base_url="https://api.deepseek.com"
+model="deepseek-v4-pro"
+回的快，用不了图片：model="deepseek-v4-flash"
+
+
+
+
+
